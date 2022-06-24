@@ -34,8 +34,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+When $a \ne 0$, there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
+\\[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\\]
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
