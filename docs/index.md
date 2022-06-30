@@ -4,7 +4,7 @@
 |:----:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|----------------------------------|
 |  2   | ![M](img/M.png) [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                 |             | ![](img/cpp.png)                 |
 |  3   | ![M](img/M.png) [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                   |             | ![](img/cpp.png)                 |
- |  5   | ![M](img/M.png) [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                     |             | ![](img/cpp.png)                 |
+|  5   | ![M](img/M.png) [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                     |             | ![](img/cpp.png)                 |
 |  7   | ![M](img/M.png) [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                                 |             | ![](img/cpp.png)                 |
 |  41  | ![H](img/H.png) [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                                   |             | ![](img/cpp.png)                 |
 |  50  | ![M](img/M.png) [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                                                |             | ![](img/cpp.png)                 |
@@ -22,6 +22,7 @@
 | 263  | ![E](img/E.png) [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                         |             | ![](img/cpp.png)                 |
 | 264  | ![M](img/M.png) [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)                                                                                   |             | ![](img/py.png)                  |
 | 304  | ![M](img/M.png) [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)                                                     |             | ![](img/cpp.png)                 |
+| 462  | ![M](img/M.png) [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)                               |             | ![](img/cpp.png)                 |
 | 867  | ![E](img/E.png) [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                                                                               |             | ![](img/py.png)                  |
 | 1048 | ![M](img/M.png) [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                                                       |             | ![](img/cpp.png)                 |
 | 1175 | ![E](img/E.png) [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)                                                                           |             | ![](img/cpp.png)                 |
