@@ -1,4 +1,4 @@
-### Problems solved:
+Here is the list of solved problems:
 
 | No.  | Description (link to Leetcode)                                                                                                                                    | Explanation | Solutions                        |
 |:----:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|----------------------------------|
@@ -37,7 +37,7 @@
 | 2197 | ![H](img/H.png) [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)                                       |             | ![](img/py.png)                  |
 | 2280 | ![M](img/M.png) [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/)                                 |             | ![](img/cpp.png)                 |
 
-### In progress:
+Work in progress:
 
 | No.  | Description (link to Leetcode)                                                                                              |
 |:----:|-----------------------------------------------------------------------------------------------------------------------------|
