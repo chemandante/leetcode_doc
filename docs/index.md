@@ -82,6 +82,7 @@ Here is the list of solved problems:
 | 1385 | ![E](img/E.png) [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | | <a href="https://github.com/chemandante/leetcode/blob/master/13/85/m1385.py" target="_blank"><img src="img/py.png"></a> |
 | 1423 | ![M](img/M.png) [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | | <a href="https://github.com/chemandante/leetcode/blob/master/14/23/m1423.cpp" target="_blank"><img src="img/cpp.png"></a> |
 | 1447 | ![M](img/M.png) [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | | <a href="https://github.com/chemandante/leetcode/blob/master/14/47/m1447.cpp" target="_blank"><img src="img/cpp.png"></a> |
+| 1448 | ![M](img/M.png) [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | | <a href="https://github.com/chemandante/leetcode/blob/master/14/48/m1448.py" target="_blank"><img src="img/py.png"></a> |
 | 1480 | ![E](img/E.png) [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | | <a href="https://github.com/chemandante/leetcode/blob/master/14/80/m1480.c" target="_blank"><img src="img/c.png"></a> |
 | 1539 | ![E](img/E.png) [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | | <a href="https://github.com/chemandante/leetcode/blob/master/15/39/m1539.swift" target="_blank"><img src="img/sw.png"></a> |
 | 1608 | ![E](img/E.png) [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | | <a href="https://github.com/chemandante/leetcode/blob/master/16/08/m1608.swift" target="_blank"><img src="img/sw.png"></a> |
@@ -94,13 +95,15 @@ Here is the list of solved problems:
 | 2197 | ![H](img/H.png) [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | | <a href="https://github.com/chemandante/leetcode/blob/master/2197/m2197.py" target="_blank"><img src="img/py.png"></a> |
 | 2280 | ![M](img/M.png) [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | | <a href="https://github.com/chemandante/leetcode/blob/master/22/80/m2280.cpp" target="_blank"><img src="img/cpp.png"></a> |
 
-Work in progress:
-
-| No.  | Description (link to Leetcode)                                                                                        |
-|:----:|-----------------------------------------------------------------------------------------------------------------------|
-| 1799 | ![H](img/H.png) [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) |
-
 ### Basic algorithm implementations
+
+#### Binary search
+
+| Solutions where implemented | Lang | Notes |
+|-----------------------------|:----:|-------|
+| <a href="https://github.com/chemandante/leetcode/tree/master/00/34" target="_blank">34. Find First and Last Position of Element in Sorted Array</a> | ![](img/py.png) ![](img/cpp.png) | Search for leftmost and rightmost in series of equals |
+| <a href="https://github.com/chemandante/leetcode/tree/master/00/35" target="_blank">35. Search Insert Position</a> | ![](img/py.png) | Search for leftmost |
+| <a href="https://github.com/chemandante/leetcode/tree/master/07/04" target="_blank">704. Binary Search</a> | ![](img/py.png) ![](img/sw.png) | Simple search |
 
 #### Binary search
 
