@@ -1,4 +1,4 @@
-Here is the list of solved problems:
+Here is the list of solved problems. Language images are clickable and lead to the solution file.
 
 | No.  | Description (link to Leetcode)                                                                                                                                    | Explanation |               Lang               |
 |:----:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|:--------------------------------:|
@@ -47,6 +47,7 @@ Here is the list of solved problems:
 | 278 | ![E](img/E.png) [First Bad Version](https://leetcode.com/problems/first-bad-version/) | | <a href="https://github.com/chemandante/leetcode/blob/master/02/78/m278.py" target="_blank"><img src="img/py.png"></a> |
 | 304 | ![M](img/M.png) [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | | <a href="https://github.com/chemandante/leetcode/blob/master/03/04/m304.cpp" target="_blank"><img src="img/cpp.png"></a> |
 | 307 | ![M](img/M.png) [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | | <a href="https://github.com/chemandante/leetcode/blob/master/03/07/m307.cpp" target="_blank"><img src="img/cpp.png"></a> |
+| 315 | ![H](img/H.png) [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | | <a href="https://github.com/chemandante/leetcode/blob/master/03/15/m315.swift" target="_blank"><img src="img/sw.png"></a> <a href="https://github.com/chemandante/leetcode/blob/master/03/15/m315.c" target="_blank"><img src="img/c.png"></a> |
 | 326 | ![E](img/E.png) [Power of Three](https://leetcode.com/problems/power-of-three/) | | <a href="https://github.com/chemandante/leetcode/blob/master/03/26/m326.py" target="_blank"><img src="img/py.png"></a> |
 | 342 | ![E](img/E.png) [Power of Four](https://leetcode.com/problems/power-of-four/) | | <a href="https://github.com/chemandante/leetcode/blob/master/03/42/m342.py" target="_blank"><img src="img/py.png"></a> |
 | 350 | ![E](img/E.png) [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | | <a href="https://github.com/chemandante/leetcode/blob/master/03/50/m350.cpp" target="_blank"><img src="img/cpp.png"></a> |
@@ -56,21 +57,26 @@ Here is the list of solved problems:
 | 378 | ![M](img/M.png) [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | | <a href="https://github.com/chemandante/leetcode/blob/master/03/78/m378.py" target="_blank"><img src="img/py.png"></a> |
 | 383 | ![E](img/E.png) [Ransom Note](https://leetcode.com/problems/ransom-note/) | | <a href="https://github.com/chemandante/leetcode/blob/master/03/83/m383.swift" target="_blank"><img src="img/sw.png"></a> |
 | 387 | ![E](img/E.png) [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | | <a href="https://github.com/chemandante/leetcode/blob/master/03/87/m387.py" target="_blank"><img src="img/py.png"></a> |
+| 429 | ![M](img/M.png) [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | | <a href="https://github.com/chemandante/leetcode/blob/master/04/29/m429.py" target="_blank"><img src="img/py.png"></a> |
 | 441 | ![E](img/E.png) [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | | <a href="https://github.com/chemandante/leetcode/blob/master/04/41/m441.swift" target="_blank"><img src="img/sw.png"></a> |
 | 462 | ![M](img/M.png) [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | | <a href="https://github.com/chemandante/leetcode/blob/master/04/62/m462.cpp" target="_blank"><img src="img/cpp.png"></a> |
 | 633 | ![M](img/M.png) [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | | <a href="https://github.com/chemandante/leetcode/blob/master/06/33/m633.py" target="_blank"><img src="img/py.png"></a> |
+| 637 | ![E](img/E.png) [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | | <a href="https://github.com/chemandante/leetcode/blob/master/06/37/m0637.c" target="_blank"><img src="img/c.png"></a> |
 | 668 | ![H](img/H.png) [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | | <a href="https://github.com/chemandante/leetcode/blob/master/06/68/m668.swift" target="_blank"><img src="img/sw.png"></a> |
-| 695 | ![M](img/M.png) [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | | <a href="https://github.com/chemandante/leetcode/blob/master/06/95/m695.cpp" target="_blank"><img src="img/cpp.png"></a> |
+| 695 | ![M](img/M.png) [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | | <a href="https://github.com/chemandante/leetcode/blob/master/06/95/m695.swift" target="_blank"><img src="img/sw.png"></a> <a href="https://github.com/chemandante/leetcode/blob/master/06/95/m695.cpp" target="_blank"><img src="img/cpp.png"></a> |
 | 704 | ![E](img/E.png) [Binary Search](https://leetcode.com/problems/binary-search/) | | <a href="https://github.com/chemandante/leetcode/blob/master/07/04/m704.py" target="_blank"><img src="img/py.png"></a> <a href="https://github.com/chemandante/leetcode/blob/master/07/04/m704.swift" target="_blank"><img src="img/sw.png"></a> |
 | 729 | ![M](img/M.png) [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | | <a href="https://github.com/chemandante/leetcode/blob/master/07/29/m729.py" target="_blank"><img src="img/py.png"></a> |
 | 744 | ![E](img/E.png) [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | | <a href="https://github.com/chemandante/leetcode/blob/master/07/44/m744.py" target="_blank"><img src="img/py.png"></a> |
 | 786 | ![M](img/M.png) [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | | <a href="https://github.com/chemandante/leetcode/blob/master/07/86/m786.py" target="_blank"><img src="img/py.png"></a> |
 | 804 | ![E](img/E.png) [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | | <a href="https://github.com/chemandante/leetcode/blob/master/08/04/m804.py" target="_blank"><img src="img/py.png"></a> |
+| 814 | ![M](img/M.png) [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | | <a href="https://github.com/chemandante/leetcode/blob/master/08/14/m814.swift" target="_blank"><img src="img/sw.png"></a> |
 | 852 | ![M](img/M.png) [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | | <a href="https://github.com/chemandante/leetcode/blob/master/08/52/m852.py" target="_blank"><img src="img/py.png"></a> |
 | 858 | ![M](img/M.png) [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | | <a href="https://github.com/chemandante/leetcode/blob/master/08/58/m858.cpp" target="_blank"><img src="img/cpp.png"></a> |
 | 867 | ![E](img/E.png) [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | | <a href="https://github.com/chemandante/leetcode/blob/master/08/67/m867.py" target="_blank"><img src="img/py.png"></a> |
 | 871 | ![H](img/H.png) [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | | <a href="https://github.com/chemandante/leetcode/blob/master/08/71/m871.py" target="_blank"><img src="img/py.png"></a> |
 | 890 | ![M](img/M.png) [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | | <a href="https://github.com/chemandante/leetcode/blob/master/08/90/m890.cpp" target="_blank"><img src="img/cpp.png"></a> |
+| 967 | ![M](img/M.png) [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | | <a href="https://github.com/chemandante/leetcode/blob/master/09/67/m967.swift" target="_blank"><img src="img/sw.png"></a> |
+| 987 | ![H](img/H.png) [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | | <a href="https://github.com/chemandante/leetcode/blob/master/09/87/m987.py" target="_blank"><img src="img/py.png"></a> |
 | 1048 | ![M](img/M.png) [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | | <a href="https://github.com/chemandante/leetcode/blob/master/10/48/m1048.cpp" target="_blank"><img src="img/cpp.png"></a> |
 | 1175 | ![E](img/E.png) [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | | <a href="https://github.com/chemandante/leetcode/blob/master/1175/m1175.cpp" target="_blank"><img src="img/cpp.png"></a> |
 | 1250 | ![H](img/H.png) [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) | | <a href="https://github.com/chemandante/leetcode/blob/master/1250/m1250.py" target="_blank"><img src="img/py.png"></a> |
@@ -97,40 +103,43 @@ Here is the list of solved problems:
 
 ### Basic algorithm implementations
 
-#### Binary search
+#### Binary indexed tree (Fenwick tree)
 
-| Solutions where implemented | Lang | Notes |
-|-----------------------------|:----:|-------|
-| <a href="https://github.com/chemandante/leetcode/tree/master/00/34" target="_blank">34. Find First and Last Position of Element in Sorted Array</a> | ![](img/py.png) ![](img/cpp.png) | Search for leftmost and rightmost in series of equals |
-| <a href="https://github.com/chemandante/leetcode/tree/master/00/35" target="_blank">35. Search Insert Position</a> | ![](img/py.png) | Search for leftmost |
-| <a href="https://github.com/chemandante/leetcode/tree/master/07/04" target="_blank">704. Binary Search</a> | ![](img/py.png) ![](img/sw.png) | Simple search |
+| No. | Solutions where implemented | Lang | Notes |
+|:---:|-----------------------------|:----:|-------|
+| 315 | <a href="https://github.com/chemandante/leetcode/tree/master/03/15" target="_blank">Count of Smaller Numbers After Self</a> | ![](img/sw.png) ![](img/c.png) | Tree for counting numbers less than X |
 
 #### Binary search
 
-| No. | Solutions where implemented (links to github folder)                                                                 | Notes                                                       |
-|:---:|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| 34  | [Find First and Last Position of Element in Sorted Array](https://github.com/chemandante/leetcode/tree/master/00/34) | `C++` Search for leftmost and rightmost in series of equals |
-| 35  | [Search Insert Position](https://github.com/chemandante/leetcode/tree/master/00/35)                                  | `Py` Search for leftmost                                    |
-| 74  | [Search a 2D Matrix](https://github.com/chemandante/leetcode/tree/master/00/74)                                      | `C++` Simple search with linear indexing of 2D matrix       |
-| 240 | [Search a 2D Matrix II](https://github.com/chemandante/leetcode/tree/master/02/40)                                   | `C++` Simple search                                         |
-| 704 | [Binary Search](https://github.com/chemandante/leetcode/tree/master/07/04)                                           | `Py` `Swift` Simple search                                  |
+| No. | Solutions where implemented | Lang | Notes |
+|:---:|-----------------------------|:----:|-------|
+| 34 | <a href="https://github.com/chemandante/leetcode/tree/master/00/34" target="_blank">Find First and Last Position of Element in Sorted Array</a> | ![](img/py.png) ![](img/cpp.png) | Search for leftmost and rightmost in series of equals |
+| 35 | <a href="https://github.com/chemandante/leetcode/tree/master/00/35" target="_blank">Search Insert Position</a> | ![](img/py.png) | Search for leftmost |
+| 74 | <a href="https://github.com/chemandante/leetcode/tree/master/00/74" target="_blank">Search a 2D Matrix</a> | ![](img/py.png) ![](img/cpp.png) | Simple search with linear indexing of 2D matrix |
+| 240 | <a href="https://github.com/chemandante/leetcode/tree/master/02/40" target="_blank">Search a 2D Matrix II</a> | ![](img/cpp.png) | Simple search |
+| 704 | <a href="https://github.com/chemandante/leetcode/tree/master/07/04" target="_blank">Binary Search</a> | ![](img/py.png) ![](img/sw.png) | Simple search |
 
 #### Greatest common divisor (GCD)
 
-| No.  | Solutions where implemented (links to github folder)                                                 | Notes |
-|:----:|------------------------------------------------------------------------------------------------------|-------|
-| 1447 | [Simplified Fractions](https://github.com/chemandante/leetcode/tree/master/14/47)                    | `C++` |
-| 2280 | [Minimum Lines to Represent a Line Chart](https://github.com/chemandante/leetcode/tree/master/22/80) | `C++` |
+| No. | Solutions where implemented | Lang | Notes |
+|:---:|-----------------------------|:----:|-------|
+| 1447 | <a href="https://github.com/chemandante/leetcode/tree/master/14/47" target="_blank">Simplified Fractions</a> | ![](img/cpp.png) |  |
+| 2280 | <a href="https://github.com/chemandante/leetcode/tree/master/22/80" target="_blank">Minimum Lines to Represent a Line Chart</a> | ![](img/cpp.png) |  |
 
-#### Single-linked lists
+#### Single-linked list
 
-| No. | Solutions where implemented (links to github folder)                                  | Notes |
-|:---:|---------------------------------------------------------------------------------------|-------|
-| 25  | [Reverse Nodes in k-Group](https://github.com/chemandante/leetcode/tree/master/00/25) | `Py`  |
-| 92  | [Reverse Linked List II](https://github.com/chemandante/leetcode/tree/master/00/92)   | `Py`  |
+| No. | Solutions where implemented | Lang | Notes |
+|:---:|-----------------------------|:----:|-------|
+| 25 | <a href="https://github.com/chemandante/leetcode/tree/master/00/25" target="_blank">Reverse Nodes in k-Group</a> | ![](img/py.png) |  |
+| 92 | <a href="https://github.com/chemandante/leetcode/tree/master/00/92" target="_blank">Reverse Linked List II</a> | ![](img/py.png) |  |
 
-#### Other helpers
 
-| Helper | Solution (clickable images) |
-|--------|-----------------------------|
-| `Py` implementation of ListNode's `__str__` and `__repr__` | 25. Reverse Nodes in k-Group <a href="https://github.com/chemandante/leetcode/blob/master/00/25/m25.py" target="_blank"><img src="img/py.png"></a> |
+### Other helpers
+
+| Helper | Solution | Lang |
+|--------|----------|:----:|
+| `Py` implementation of ListNode's `__str__` and `__repr__` | 25. Reverse Nodes in k-Group | <a href="https://github.com/chemandante/leetcode/blob/master/00/25/m25.py" target="_blank"><img src="img/py.png"></a> |
+| Dynamic array | 637. Average of Levels in Binary Tree | <a href="https://github.com/chemandante/leetcode/blob/master/06/37/m0637.c" target="_blank"><img src="img/c.png"></a> |
+| `Swift` queue using single-linked list | 695. Max Area of Island | <a href="https://github.com/chemandante/leetcode/blob/master/06/95/m695.swift" target="_blank"><img src="img/sw.png"></a> |
+| Building TreeNode’s tree from array | 814. Binary Tree Pruning | <a href="https://github.com/chemandante/leetcode/blob/master/08/14/m814.swift" target="_blank"><img src="img/sw.png"></a> |
+| Building TreeNode's tree from array | 987. Vertical Order Traversal of a Binary Tree | <a href="https://github.com/chemandante/leetcode/blob/master/09/87/m987.py" target="_blank"><img src="img/py.png"></a> |
